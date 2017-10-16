@@ -2,7 +2,7 @@ package lab1;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Image;
-
+//aabbcc
 import java.awt.Toolkit;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

@@ -1,6 +1,10 @@
 package lab1;
 import java.util.*;
+<<<<<<< HEAD
 //aabbcc
+=======
+//112358
+>>>>>>> C4
 /*To find the word linking word1 and word2
  * Construct function:  BridgeWords(String word1, String word2, List<VNode>List);
  * Display index result : Display();

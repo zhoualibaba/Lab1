@@ -1,5 +1,13 @@
 package lab1;
+<<<<<<< HEAD
 //qwer
+=======
+<<<<<<< HEAD
+//aabbcc
+=======
+//112358
+>>>>>>> C4
+>>>>>>> B1
 import java.util.ArrayList;
 import java.util.List;
 

@@ -2,7 +2,11 @@ package lab1;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Image;
-
+<<<<<<< HEAD
+//aabbcc
+=======
+//112358
+>>>>>>> C4
 import java.awt.Toolkit;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

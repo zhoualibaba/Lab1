@@ -1,5 +1,13 @@
 package lab1;
+<<<<<<< HEAD
 //zxcv
+=======
+<<<<<<< HEAD
+//aabbcc
+=======
+//112358
+>>>>>>> C4
+>>>>>>> B1
 import java.util.List;
 import java.io.File;
 import java.awt.*;
